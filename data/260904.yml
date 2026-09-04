@@ -7,7 +7,7 @@ about:
   head: 73750f7
   archived: false
   latestVersion: v0.11.0
-  collectedAt: 2026-09-04T19:42:15Z
+  collectedAt: 2026-09-04T20:51:34Z
 timeline:
   created: 2025-11-08
   lastCommit: 2026-09-02
@@ -86,5 +86,68 @@ total:
   openIssue: 12
   commit: 563
 ---
+path: /home/runner/.x-repo/github.com/unhappychoice/gitlogue
+collectedAt: 2026-09-04T20:51:36Z
+loc:
+  Rust:
+    code: 10936
+    comments: 236
+    blanks: 1509
+    files: 70
+  Scheme:
+    code: 1158
+    comments: 100
+    blanks: 282
+    files: 8
+  Json:
+    code: 917
+    comments: 0
+    blanks: 0
+    files: 2
+  JavaScript:
+    code: 425
+    comments: 18
+    blanks: 12
+    files: 1
+  Sh:
+    code: 210
+    comments: 22
+    blanks: 48
+    files: 2
+  Toml:
+    code: 94
+    comments: 0
+    blanks: 6
+    files: 2
+  Nix:
+    code: 70
+    comments: 0
+    blanks: 5
+    files: 1
+  Ruby:
+    code: 31
+    comments: 0
+    blanks: 6
+    files: 1
+  Yaml:
+    code: 17
+    comments: 0
+    blanks: 2
+    files: 1
+  Handlebars:
+    code: 15
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2155
+    blanks: 887
+    files: 10
+total:
+  code: 14352
+  comments: 2826
+  blanks: 2883
+  files: 99
 ---
 
