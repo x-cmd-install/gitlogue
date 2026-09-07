@@ -2,13 +2,13 @@ about:
   description: "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story."
   license: ISC
   homepage: 
-  head: 73750f7
+  head: 8975613
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-07T05:51:37Z
+  collectedAt: 2026-09-07T18:45:43Z
 timeline:
   created: 2025-11-08
-  lastCommit: 2026-09-02
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-30
 popularity:
   star: 4962
@@ -16,7 +16,7 @@ popularity:
   fork: 112
   release: 15
   contributor: 20
-  pullRequest: 178
+  pullRequest: 179
   issue: 58
 language:
   Rust: 436515
@@ -31,61 +31,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 7
-    openPR: 1
-    closedIssue: 0
-    openIssue: 1
-    commit: 10
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 12
   last60d:
     since: 2026-07-09
     release: 2
-    mergedPR: 16
-    openPR: 1
-    closedIssue: 0
-    openIssue: 2
-    commit: 24
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 26
   last90d:
     since: 2026-06-09
     release: 2
-    mergedPR: 19
-    openPR: 1
-    closedIssue: 0
-    openIssue: 3
-    commit: 27
+    mergedPR: 21
+    openPR: 0
+    closedIssue: 1
+    openIssue: 2
+    commit: 29
   last180d:
     since: 2026-03-11
     release: 3
-    mergedPR: 57
-    openPR: 1
-    closedIssue: 4
-    openIssue: 3
-    commit: 121
+    mergedPR: 59
+    openPR: 0
+    closedIssue: 5
+    openIssue: 2
+    commit: 123
   last360d:
     since: 2025-09-12
     release: 15
-    mergedPR: 168
-    openPR: 2
-    closedIssue: 46
-    openIssue: 12
-    commit: 403
+    mergedPR: 170
+    openPR: 1
+    closedIssue: 47
+    openIssue: 11
+    commit: 405
   last720d:
     since: 2024-09-17
     release: 15
-    mergedPR: 168
-    openPR: 2
-    closedIssue: 46
-    openIssue: 12
-    commit: 563
+    mergedPR: 170
+    openPR: 1
+    closedIssue: 47
+    openIssue: 11
+    commit: 567
 total:
   release: 15
-  mergedPR: 168
-  openPR: 2
-  closedIssue: 46
-  openIssue: 12
-  commit: 563
+  mergedPR: 170
+  openPR: 1
+  closedIssue: 47
+  openIssue: 11
+  commit: 567
 ---
 path: /home/runner/.x-repo/github.com/unhappychoice/gitlogue
-collectedAt: 2026-09-07T05:51:42Z
+collectedAt: 2026-09-07T18:45:47Z
 loc:
   Rust:
     code: 10936
@@ -151,7 +151,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:51:45+00:00
+  collectedAt: 2026-09-07T18:45:49+00:00
   platform:
     darwin/arm64:
       name:  gitlogue-v0.11.0-aarch64-apple-darwin.tar.gz
