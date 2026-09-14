@@ -37,22 +37,22 @@ x install gitlogue
 
 ## 流行度
 
-- **Star**: 4,970 · **Fork**: 112 · **开放 issue**: 59 · **贡献者**: 20
+- **Star**: 4,976 · **Fork**: 114 · **开放 issue**: 59 · **贡献者**: 20
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 171 · **开放 PR**: 1 · **已关闭 issue**: 48 · **开放 issue**: 11 · **提交数**: 569
+- **发布数**: 15 · **已合并 PR**: 171 · **开放 PR**: 3 · **已关闭 issue**: 48 · **开放 issue**: 11 · **提交数**: 569
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 7 | 0 | 1 | 1 | 13 |
-| last60d | 2026-07-15 | 2 | 17 | 0 | 1 | 2 | 27 |
-| 90d | 2026-06-15 | 2 | 22 | 0 | 1 | 2 | 30 |
-| last180d | 2026-03-17 | 3 | 57 | 0 | 5 | 3 | 124 |
-| 360d | 2025-09-18 | 15 | 171 | 1 | 48 | 11 | 406 |
-| last720d | 2024-09-23 | 15 | 171 | 1 | 48 | 11 | 569 |
+| 30d | 2026-08-15 | 1 | 7 | 2 | 1 | 1 | 9 |
+| last60d | 2026-07-16 | 2 | 15 | 2 | 1 | 2 | 20 |
+| 90d | 2026-06-16 | 2 | 22 | 2 | 1 | 2 | 30 |
+| last180d | 2026-03-18 | 3 | 55 | 2 | 5 | 3 | 121 |
+| 360d | 2025-09-19 | 15 | 171 | 3 | 48 | 11 | 406 |
+| last720d | 2024-09-24 | 15 | 171 | 3 | 48 | 11 | 569 |
 
 ## Release 资产
 
@@ -64,16 +64,6 @@ x install gitlogue
 | [gitlogue-v0.11.0-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gitlogue/releases/download/v0.11.0/gitlogue-v0.11.0-x86_64-pc-windows-msvc.zip) | 5.7 MiB | `native/win/x64` |
 | [gitlogue-v0.11.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gitlogue/releases/download/v0.11.0/gitlogue-v0.11.0-x86_64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/x64/glibc` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gitlogue) 上共有 **17** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.9.0` | ⚠️ outdated |
-| Homebrew | `0.11.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ✅ latest |
-
 ## 改进这些数据
 
 gitlogue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gitlogue` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -83,4 +73,4 @@ gitlogue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:05:00Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:18:43Z._
