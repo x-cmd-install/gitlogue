@@ -4,7 +4,7 @@
 
 A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
-[![x-cmd/install — gitlogue Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitlogue.svg)](https://x-cmd.com/install/gitlogue)
+[![x-cmd/install — gitlogue Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gitlogue.svg)](https://x-cmd.com/install/gitlogue)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **13,873** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,992 · **Forks**: 115 · **Open issues**: 59 · **Contributors**: 20
+- **Stars**: 4,994 · **Forks**: 115 · **Open issues**: 59 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,873** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 8 | 0 | 1 | 1 | 10 |
-| last60d | 2026-07-24 | 2 | 14 | 0 | 1 | 1 | 20 |
-| 90d | 2026-06-24 | 2 | 23 | 0 | 1 | 2 | 30 |
-| last180d | 2026-03-26 | 3 | 54 | 0 | 4 | 3 | 119 |
-| 360d | 2025-09-27 | 15 | 173 | 1 | 48 | 11 | 408 |
-| last720d | 2024-10-02 | 15 | 173 | 1 | 48 | 11 | 573 |
+| 30d | 2026-08-24 | 1 | 8 | 0 | 1 | 1 | 10 |
+| last60d | 2026-07-25 | 2 | 14 | 0 | 1 | 1 | 20 |
+| 90d | 2026-06-25 | 2 | 23 | 0 | 1 | 2 | 30 |
+| last180d | 2026-03-27 | 3 | 54 | 0 | 4 | 3 | 119 |
+| 360d | 2025-09-28 | 15 | 173 | 1 | 48 | 11 | 408 |
+| last720d | 2024-10-03 | 15 | 173 | 1 | 48 | 11 | 573 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:32:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:22:53Z._
