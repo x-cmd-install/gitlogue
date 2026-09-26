@@ -37,7 +37,7 @@ Total: **13,873** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,998 · **Forks**: 115 · **Open issues**: 59 · **Contributors**: 20
+- **Stars**: 5,000 · **Forks**: 115 · **Open issues**: 59 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,873** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 8 | 0 | 1 | 1 | 11 |
-| last60d | 2026-07-27 | 1 | 15 | 0 | 1 | 1 | 21 |
-| 90d | 2026-06-27 | 2 | 23 | 0 | 1 | 2 | 31 |
-| last180d | 2026-03-29 | 3 | 55 | 0 | 4 | 3 | 120 |
-| 360d | 2025-09-30 | 15 | 174 | 1 | 48 | 11 | 409 |
-| last720d | 2024-10-05 | 15 | 174 | 1 | 48 | 11 | 575 |
+| 30d | 2026-08-27 | 1 | 8 | 0 | 1 | 1 | 11 |
+| last60d | 2026-07-28 | 1 | 15 | 0 | 1 | 1 | 21 |
+| 90d | 2026-06-28 | 2 | 23 | 0 | 1 | 2 | 31 |
+| last180d | 2026-03-30 | 3 | 54 | 0 | 4 | 3 | 120 |
+| 360d | 2025-10-01 | 15 | 174 | 1 | 48 | 11 | 409 |
+| last720d | 2024-10-06 | 15 | 174 | 1 | 48 | 11 | 575 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:04:14Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:53:20Z._
