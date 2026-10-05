@@ -37,22 +37,22 @@ Total: **14,476** lines of code across **84** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,072 · **Forks**: 117 · **Open issues**: 59 · **Contributors**: 20
+- **Stars**: 5,079 · **Forks**: 117 · **Open issues**: 59 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 175 · **Open PRs**: 1 · **Closed issues**: 50 · **Open issues**: 9 · **Commits**: 583
+- **Releases**: 16 · **Merged PRs**: 175 · **Open PRs**: 2 · **Closed issues**: 50 · **Open issues**: 9 · **Commits**: 583
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 7 | 0 | 0 | 1 | 10 |
-| last60d | 2026-08-05 | 2 | 14 | 0 | 1 | 1 | 24 |
-| 90d | 2026-07-06 | 3 | 23 | 0 | 1 | 2 | 37 |
-| last180d | 2026-04-07 | 4 | 51 | 0 | 5 | 2 | 121 |
-| 360d | 2025-10-09 | 16 | 175 | 1 | 50 | 9 | 416 |
-| last720d | 2024-10-14 | 16 | 175 | 1 | 50 | 9 | 583 |
+| 30d | 2026-09-05 | 1 | 7 | 1 | 0 | 1 | 10 |
+| last60d | 2026-08-06 | 2 | 14 | 1 | 1 | 1 | 24 |
+| 90d | 2026-07-07 | 3 | 23 | 1 | 1 | 2 | 37 |
+| last180d | 2026-04-08 | 4 | 50 | 1 | 5 | 2 | 121 |
+| 360d | 2025-10-10 | 16 | 175 | 2 | 50 | 9 | 416 |
+| last720d | 2024-10-15 | 16 | 175 | 2 | 50 | 9 | 583 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:00:23Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:40:28Z._
