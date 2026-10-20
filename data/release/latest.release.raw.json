@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6035608,
       "digest": "sha256:db28ec8257f4ae4beb6524a933949379ea9f3b5a3c4d19b55d3060d68aff8bc8",
-      "download_count": 58,
+      "download_count": 95,
       "created_at": "2026-10-17T15:08:13Z",
       "updated_at": "2026-10-17T15:08:14Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.1/gitlogue-v0.12.1-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6072358,
       "digest": "sha256:49559a53a52d6a19f526af6588ac623b823e33a00ebaa50be41db88bdd602cee",
-      "download_count": 12,
+      "download_count": 18,
       "created_at": "2026-10-17T15:06:45Z",
       "updated_at": "2026-10-17T15:06:46Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.1/gitlogue-v0.12.1-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5878001,
       "digest": "sha256:14120d6da41e21fad7b7c87d2f1cac019af6ef334f70045468252444d27d0667",
-      "download_count": 7,
+      "download_count": 14,
       "created_at": "2026-10-17T15:08:14Z",
       "updated_at": "2026-10-17T15:08:14Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.1/gitlogue-v0.12.1-x86_64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6058848,
       "digest": "sha256:7a317791faf90568ca278876eb911e36d4b441a86bb0ab8c60f6a0df64e647ae",
-      "download_count": 36,
+      "download_count": 53,
       "created_at": "2026-10-17T15:08:29Z",
       "updated_at": "2026-10-17T15:08:30Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.1/gitlogue-v0.12.1-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6115282,
       "digest": "sha256:c3b51d4c6dd1d84d32eeaf0ecc5bb281bd3a48b300dc64028e5561b5748971c3",
-      "download_count": 80,
+      "download_count": 151,
       "created_at": "2026-10-17T15:07:39Z",
       "updated_at": "2026-10-17T15:07:40Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.1/gitlogue-v0.12.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -219,5 +219,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/unhappychoice/gitlogue/tarball/v0.12.1",
   "zipball_url": "https://api.github.com/repos/unhappychoice/gitlogue/zipball/v0.12.1",
-  "body": "\n### 🐛 Bug Fixes\n\n- fix(ui): ignore key release events so keys do not fire twice on Windows ([ec63a6c](https://github.com/unhappychoice/gitlogue/commit/ec63a6c))\n\n### 📝 Other Changes\n\n- chore: bump version to v0.12.1 ([63630fd](https://github.com/unhappychoice/gitlogue/commit/63630fd))\n- test(ui): replace no-op step regression test with history navigation check ([3b23f10](https://github.com/unhappychoice/gitlogue/commit/3b23f10))\n- chore(deps): bump tree-sitter-erlang from 0.20.0 to 0.21.0 ([10911eb](https://github.com/unhappychoice/gitlogue/commit/10911eb))\n- chore(deps): bump tree-sitter-php from 0.24.2 to 0.25.1 ([3565f10](https://github.com/unhappychoice/gitlogue/commit/3565f10))\n- chore(deps): bump tree-sitter-swift from 0.7.3 to 0.7.4 ([b89c173](https://github.com/unhappychoice/gitlogue/commit/b89c173))\n- chore(deps): bump tree-sitter-haskell from 0.23.1 to 0.24.1 ([10d8fb0](https://github.com/unhappychoice/gitlogue/commit/10d8fb0))\n- chore: update flake.nix hashes for v0.12.0 ([1ad3d9b](https://github.com/unhappychoice/gitlogue/commit/1ad3d9b))\n\n"
+  "body": "\n### 🐛 Bug Fixes\n\n- fix(ui): ignore key release events so keys do not fire twice on Windows ([ec63a6c](https://github.com/unhappychoice/gitlogue/commit/ec63a6c))\n\n### 📝 Other Changes\n\n- chore: bump version to v0.12.1 ([63630fd](https://github.com/unhappychoice/gitlogue/commit/63630fd))\n- test(ui): replace no-op step regression test with history navigation check ([3b23f10](https://github.com/unhappychoice/gitlogue/commit/3b23f10))\n- chore(deps): bump tree-sitter-erlang from 0.20.0 to 0.21.0 ([10911eb](https://github.com/unhappychoice/gitlogue/commit/10911eb))\n- chore(deps): bump tree-sitter-php from 0.24.2 to 0.25.1 ([3565f10](https://github.com/unhappychoice/gitlogue/commit/3565f10))\n- chore(deps): bump tree-sitter-swift from 0.7.3 to 0.7.4 ([b89c173](https://github.com/unhappychoice/gitlogue/commit/b89c173))\n- chore(deps): bump tree-sitter-haskell from 0.23.1 to 0.24.1 ([10d8fb0](https://github.com/unhappychoice/gitlogue/commit/10d8fb0))\n- chore: update flake.nix hashes for v0.12.0 ([1ad3d9b](https://github.com/unhappychoice/gitlogue/commit/1ad3d9b))\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/unhappychoice/gitlogue/releases/415866799/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
