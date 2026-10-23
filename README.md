@@ -37,7 +37,7 @@ Total: **14,510** lines of code across **84** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,200 · **Forks**: 120 · **Open issues**: 60 · **Contributors**: 21
+- **Stars**: 5,206 · **Forks**: 120 · **Open issues**: 60 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,510** lines of code across **84** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 8 | 0 | 1 | 0 | 16 |
-| last60d | 2026-08-23 | 3 | 16 | 0 | 3 | 0 | 28 |
-| 90d | 2026-07-24 | 4 | 22 | 0 | 3 | 0 | 37 |
-| last180d | 2026-04-25 | 4 | 47 | 0 | 5 | 1 | 117 |
-| 360d | 2025-10-27 | 17 | 181 | 1 | 52 | 8 | 425 |
-| last720d | 2024-11-01 | 17 | 181 | 1 | 52 | 8 | 598 |
+| 30d | 2026-09-23 | 2 | 8 | 0 | 1 | 0 | 16 |
+| last60d | 2026-08-24 | 3 | 16 | 0 | 3 | 0 | 28 |
+| 90d | 2026-07-25 | 4 | 22 | 0 | 3 | 0 | 37 |
+| last180d | 2026-04-26 | 4 | 47 | 0 | 5 | 1 | 117 |
+| 360d | 2025-10-28 | 17 | 181 | 1 | 52 | 8 | 425 |
+| last720d | 2024-11-02 | 17 | 181 | 1 | 52 | 8 | 598 |
 
 ## Release assets
 
@@ -64,6 +64,16 @@ Total: **14,510** lines of code across **84** files in the top 5 languages.
 | [gitlogue-v0.12.1-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/gitlogue/releases/download/v0.12.1/gitlogue-v0.12.1-x86_64-pc-windows-msvc.zip) | 5.8 MiB | `native/win/x64` |
 | [gitlogue-v0.12.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/gitlogue/releases/download/v0.12.1/gitlogue-v0.12.1-x86_64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/gitlogue). **4** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.9.0` | ⚠️ outdated |
+| Homebrew | `0.12.1` | ✅ latest |
+| Nix unstable | `0.12.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitlogue` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +83,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:44:51Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:47:41Z._
