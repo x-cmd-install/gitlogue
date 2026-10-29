@@ -1,36 +1,3 @@
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: gitlogue
-  binname: gitlogue
-  visiblename: gitlogue
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: outdated
-  summary: A cinematic Git commit replay tool for the terminal
-  licenses:
-    - ISC
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gitlogue
-  binname: gitlogue
-  visiblename: gitlogue
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: outdated
-  summary: A cinematic Git commit replay tool for the terminal
-  licenses:
-    - ISC
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: gitlogue
-  binname: gitlogue
-  visiblename: gitlogue
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: outdated
-  summary: A cinematic Git commit replay tool for the terminal
-  licenses:
-    - ISC
 - repo: altsisyphus
   srcname: gitlogue
   binnames:
@@ -104,6 +71,39 @@
   origversion: null
   status: rolling
   summary: Cinematic Git commit replay tool
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gitlogue
+  binname: gitlogue
+  visiblename: gitlogue
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: outdated
+  summary: A cinematic Git commit replay tool for the terminal
+  licenses:
+    - ISC
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gitlogue
+  binname: gitlogue
+  visiblename: gitlogue
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: outdated
+  summary: A cinematic Git commit replay tool for the terminal
+  licenses:
+    - ISC
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gitlogue
+  binname: gitlogue
+  visiblename: gitlogue
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: outdated
+  summary: A cinematic Git commit replay tool for the terminal
+  licenses:
+    - ISC
 - repo: nix_stable_25_11
   srcname: gitlogue
   visiblename: gitlogue
@@ -129,9 +129,9 @@
 - repo: nix_unstable
   srcname: gitlogue
   visiblename: gitlogue
-  version: 0.12.0
+  version: 0.12.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Cinematic Git commit replay tool for the terminal
   maintainers:
     - 2210227279@qq.com
