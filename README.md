@@ -32,27 +32,27 @@ Total: **14,510** lines of code across **84** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.1` (2026-10-17)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-29
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,234 · **Forks**: 123 · **Open issues**: 60 · **Contributors**: 21
+- **Stars**: 5,240 · **Forks**: 123 · **Open issues**: 60 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 181 · **Open PRs**: 2 · **Closed issues**: 53 · **Open issues**: 7 · **Commits**: 598
+- **Releases**: 17 · **Merged PRs**: 182 · **Open PRs**: 2 · **Closed issues**: 53 · **Open issues**: 7 · **Commits**: 600
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 7 | 1 | 1 | 0 | 11 |
-| last60d | 2026-08-29 | 3 | 15 | 1 | 3 | 0 | 22 |
-| 90d | 2026-07-30 | 3 | 20 | 1 | 3 | 0 | 35 |
-| last180d | 2026-05-01 | 4 | 44 | 1 | 6 | 0 | 67 |
-| 360d | 2025-11-02 | 17 | 181 | 2 | 53 | 7 | 425 |
-| last720d | 2024-11-07 | 17 | 181 | 2 | 53 | 7 | 598 |
+| 30d | 2026-09-29 | 2 | 8 | 1 | 1 | 0 | 12 |
+| last60d | 2026-08-30 | 3 | 15 | 1 | 3 | 0 | 23 |
+| 90d | 2026-07-31 | 3 | 21 | 1 | 3 | 0 | 36 |
+| last180d | 2026-05-02 | 4 | 45 | 1 | 6 | 0 | 68 |
+| 360d | 2025-11-03 | 17 | 182 | 2 | 53 | 7 | 426 |
+| last720d | 2024-11-08 | 17 | 182 | 2 | 53 | 7 | 600 |
 
 ## Release assets
 
@@ -66,13 +66,13 @@ Total: **14,510** lines of code across **84** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/gitlogue). **4** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/gitlogue). **5** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.9.0` | ⚠️ outdated |
 | Homebrew | `0.12.1` | ✅ latest |
-| Nix unstable | `0.12.0` | ⚠️ outdated |
+| Nix unstable | `0.12.1` | ✅ latest |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:44:32Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:54:36Z._
