@@ -1,3 +1,54 @@
+- repo: homebrew
+  srcname: gitlogue
+  visiblename: gitlogue
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cinematic Git commit replay tool
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gitlogue
+  binname: gitlogue
+  visiblename: gitlogue
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: outdated
+  summary: A cinematic Git commit replay tool for the terminal
+  licenses:
+    - ISC
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gitlogue
+  binname: gitlogue
+  visiblename: gitlogue
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: outdated
+  summary: A cinematic Git commit replay tool for the terminal
+  licenses:
+    - ISC
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gitlogue
+  binname: gitlogue
+  visiblename: gitlogue
+  version: 0.9.0
+  origversion: 0.9.0-1
+  status: outdated
+  summary: A cinematic Git commit replay tool for the terminal
+  licenses:
+    - ISC
+- repo: nix_stable_25_11
+  srcname: gitlogue
+  visiblename: gitlogue
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: Cinematic Git commit replay tool for the terminal
+  maintainers:
+    - 2210227279@qq.com
+  licenses:
+    - ISC
 - repo: altsisyphus
   srcname: gitlogue
   binnames:
@@ -64,57 +115,6 @@
   origversion: null
   status: newest
   summary: Cinematic Git commit replay tool
-- repo: homebrew
-  srcname: gitlogue
-  visiblename: gitlogue
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Cinematic Git commit replay tool
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: gitlogue
-  binname: gitlogue
-  visiblename: gitlogue
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: outdated
-  summary: A cinematic Git commit replay tool for the terminal
-  licenses:
-    - ISC
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gitlogue
-  binname: gitlogue
-  visiblename: gitlogue
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: outdated
-  summary: A cinematic Git commit replay tool for the terminal
-  licenses:
-    - ISC
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: gitlogue
-  binname: gitlogue
-  visiblename: gitlogue
-  version: 0.9.0
-  origversion: 0.9.0-1
-  status: outdated
-  summary: A cinematic Git commit replay tool for the terminal
-  licenses:
-    - ISC
-- repo: nix_stable_25_11
-  srcname: gitlogue
-  visiblename: gitlogue
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: Cinematic Git commit replay tool for the terminal
-  maintainers:
-    - 2210227279@qq.com
-  licenses:
-    - ISC
 - repo: nix_stable_26_05
   srcname: gitlogue
   visiblename: gitlogue
