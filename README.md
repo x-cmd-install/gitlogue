@@ -14,12 +14,12 @@ x install gitlogue
 
 ## Code insight
 
-Total: **14,510** lines of code across **84** files in the top 5 languages.
+Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,573 | 242 | 1,602 | 71 |
-| Scheme | 1,158 | 100 | 282 | 8 |
+| Rust | 11,585 | 242 | 1,603 | 71 |
+| Scheme | 1,039 | 71 | 250 | 7 |
 | Json | 917 | 0 | 0 | 2 |
 | JavaScript | 425 | 18 | 12 | 1 |
 | Sh | 210 | 22 | 48 | 2 |
@@ -32,27 +32,27 @@ Total: **14,510** lines of code across **84** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.1` (2026-10-17)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,240 · **Forks**: 123 · **Open issues**: 60 · **Contributors**: 21
+- **Stars**: 5,242 · **Forks**: 123 · **Open issues**: 60 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 182 · **Open PRs**: 2 · **Closed issues**: 53 · **Open issues**: 7 · **Commits**: 600
+- **Releases**: 17 · **Merged PRs**: 183 · **Open PRs**: 1 · **Closed issues**: 53 · **Open issues**: 7 · **Commits**: 605
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 8 | 1 | 1 | 0 | 12 |
-| last60d | 2026-08-30 | 3 | 15 | 1 | 3 | 0 | 23 |
-| 90d | 2026-07-31 | 3 | 21 | 1 | 3 | 0 | 36 |
-| last180d | 2026-05-02 | 4 | 45 | 1 | 6 | 0 | 68 |
-| 360d | 2025-11-03 | 17 | 182 | 2 | 53 | 7 | 426 |
-| last720d | 2024-11-08 | 17 | 182 | 2 | 53 | 7 | 600 |
+| 30d | 2026-09-30 | 2 | 9 | 0 | 1 | 0 | 16 |
+| last60d | 2026-08-31 | 2 | 15 | 0 | 3 | 0 | 27 |
+| 90d | 2026-08-01 | 3 | 22 | 0 | 3 | 0 | 40 |
+| last180d | 2026-05-03 | 4 | 46 | 0 | 6 | 0 | 72 |
+| 360d | 2025-11-04 | 17 | 183 | 1 | 53 | 7 | 430 |
+| last720d | 2024-11-09 | 17 | 183 | 1 | 53 | 7 | 605 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Reported by **18** distros on [repology.org](https://repology.org/project/gitlog
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.9.0` | ⚠️ outdated |
-| Homebrew | `0.12.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.12.1` | ✅ latest |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:54:36Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:51:12Z._
