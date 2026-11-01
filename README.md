@@ -37,7 +37,7 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,247 · **Forks**: 123 · **Open issues**: 60 · **Contributors**: 21
+- **Stars**: 5,249 · **Forks**: 123 · **Open issues**: 60 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 8 | 0 | 1 | 0 | 18 |
-| last60d | 2026-09-01 | 3 | 15 | 0 | 3 | 0 | 29 |
-| 90d | 2026-08-02 | 4 | 22 | 0 | 3 | 0 | 42 |
-| last180d | 2026-05-04 | 5 | 46 | 0 | 6 | 0 | 74 |
-| 360d | 2025-11-05 | 18 | 183 | 1 | 53 | 7 | 432 |
-| last720d | 2024-11-10 | 18 | 183 | 1 | 53 | 7 | 607 |
+| 30d | 2026-10-02 | 3 | 8 | 0 | 1 | 0 | 14 |
+| last60d | 2026-09-02 | 3 | 15 | 0 | 3 | 0 | 27 |
+| 90d | 2026-08-03 | 4 | 22 | 0 | 3 | 0 | 42 |
+| last180d | 2026-05-05 | 5 | 45 | 0 | 6 | 0 | 71 |
+| 360d | 2025-11-06 | 18 | 183 | 1 | 53 | 7 | 325 |
+| last720d | 2024-11-11 | 18 | 183 | 1 | 53 | 7 | 607 |
 
 ## Release assets
 
@@ -66,13 +66,13 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/gitlogue). **5** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/gitlogue). **4** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.9.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.12.1` | ✅ latest |
+| Homebrew | `0.12.2` | ✅ latest |
+| Nix unstable | `0.12.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:43:25Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:04:40Z._
