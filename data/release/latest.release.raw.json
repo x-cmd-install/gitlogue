@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6055764,
       "digest": "sha256:b73118f9417f90cff296a9fcb43cdb5c34e9b342bea8bab1fdc15b44c366f7b1",
-      "download_count": 28,
+      "download_count": 49,
       "created_at": "2026-10-31T06:12:25Z",
       "updated_at": "2026-10-31T06:12:26Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.2/gitlogue-v0.12.2-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6088710,
       "digest": "sha256:a9b167db703dc43e0fa7d809aaef183f13ebc583b05ad1b5cd238aa3d2acd799",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-31T06:11:45Z",
       "updated_at": "2026-10-31T06:11:46Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.2/gitlogue-v0.12.2-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5895905,
       "digest": "sha256:603ca56d612aab96638efb5d50800450c07e8ae2ae6aafae366c5c19ea042376",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-31T06:11:16Z",
       "updated_at": "2026-10-31T06:11:17Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.2/gitlogue-v0.12.2-x86_64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6077408,
       "digest": "sha256:e74df9ece92fd29b71af9ea859e009950129ce19064bb977b735545dc9a411bf",
-      "download_count": 18,
+      "download_count": 24,
       "created_at": "2026-10-31T06:12:20Z",
       "updated_at": "2026-10-31T06:12:21Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.2/gitlogue-v0.12.2-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6137906,
       "digest": "sha256:b9953fa76141ae02be9c57d788b7a55a8e97fd7e92f74cfe896d2851987f9a08",
-      "download_count": 27,
+      "download_count": 48,
       "created_at": "2026-10-31T06:11:29Z",
       "updated_at": "2026-10-31T06:11:30Z",
       "browser_download_url": "https://github.com/unhappychoice/gitlogue/releases/download/v0.12.2/gitlogue-v0.12.2-x86_64-unknown-linux-gnu.tar.gz"
