@@ -1,3 +1,27 @@
+- repo: pkgsrc_current
+  srcname: devel/gitlogue
+  binname: gitlogue
+  visiblename: devel/gitlogue
+  version: 0.12.2
+  origversion: null
+  status: newest
+  summary: Cinematic Git commit replay tool for the terminal
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_3
+  srcname: devel/gitlogue
+  binname: gitlogue
+  visiblename: devel/gitlogue
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Cinematic Git commit replay tool for the terminal
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
 - repo: altsisyphus
   srcname: gitlogue
   binnames:
@@ -142,30 +166,6 @@
   binname: gitlogue
   visiblename: devel/gitlogue
   version: 0.9.0
-  origversion: null
-  status: outdated
-  summary: Cinematic Git commit replay tool for the terminal
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: pkgsrc_2026_3
-  srcname: devel/gitlogue
-  binname: gitlogue
-  visiblename: devel/gitlogue
-  version: 0.11.0
-  origversion: null
-  status: outdated
-  summary: Cinematic Git commit replay tool for the terminal
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: pkgsrc_current
-  srcname: devel/gitlogue
-  binname: gitlogue
-  visiblename: devel/gitlogue
-  version: 0.12.0
   origversion: null
   status: outdated
   summary: Cinematic Git commit replay tool for the terminal
