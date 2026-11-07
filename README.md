@@ -37,7 +37,7 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,261 · **Forks**: 123 · **Open issues**: 61 · **Contributors**: 21
+- **Stars**: 5,259 · **Forks**: 123 · **Open issues**: 61 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 10 | 0 | 1 | 1 | 17 |
-| last60d | 2026-09-07 | 3 | 16 | 0 | 2 | 1 | 30 |
-| 90d | 2026-08-08 | 4 | 25 | 0 | 3 | 1 | 45 |
-| last180d | 2026-05-10 | 5 | 47 | 0 | 6 | 1 | 74 |
-| 360d | 2025-11-11 | 18 | 165 | 1 | 32 | 8 | 328 |
-| last720d | 2024-11-16 | 18 | 186 | 1 | 53 | 8 | 613 |
+| 30d | 2026-10-08 | 2 | 9 | 0 | 1 | 1 | 17 |
+| last60d | 2026-09-08 | 3 | 16 | 0 | 2 | 1 | 30 |
+| 90d | 2026-08-09 | 4 | 25 | 0 | 3 | 1 | 45 |
+| last180d | 2026-05-11 | 5 | 47 | 0 | 6 | 1 | 74 |
+| 360d | 2025-11-12 | 18 | 160 | 1 | 32 | 8 | 328 |
+| last720d | 2024-11-17 | 18 | 186 | 1 | 53 | 8 | 613 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/gitlogue). **5** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/gitlogue). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:53:32Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:02:33Z._
