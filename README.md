@@ -32,27 +32,27 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.2` (2026-10-31)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-10
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 5,264 · **Forks**: 123 · **Open issues**: 61 · **Contributors**: 21
+- **Stars**: 5,266 · **Forks**: 123 · **Open issues**: 61 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 186 · **Open PRs**: 2 · **Closed issues**: 53 · **Open issues**: 8 · **Commits**: 613
+- **Releases**: 18 · **Merged PRs**: 187 · **Open PRs**: 2 · **Closed issues**: 53 · **Open issues**: 8 · **Commits**: 615
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 9 | 1 | 1 | 1 | 13 |
-| last60d | 2026-09-11 | 3 | 15 | 1 | 1 | 1 | 27 |
-| 90d | 2026-08-12 | 4 | 22 | 1 | 3 | 1 | 42 |
-| last180d | 2026-05-14 | 5 | 45 | 1 | 5 | 1 | 68 |
-| 360d | 2025-11-15 | 13 | 160 | 2 | 31 | 7 | 279 |
-| last720d | 2024-11-20 | 18 | 186 | 2 | 53 | 8 | 613 |
+| 30d | 2026-10-12 | 2 | 7 | 1 | 0 | 1 | 14 |
+| last60d | 2026-09-12 | 3 | 16 | 1 | 1 | 1 | 28 |
+| 90d | 2026-08-13 | 4 | 23 | 1 | 3 | 1 | 43 |
+| last180d | 2026-05-15 | 5 | 46 | 1 | 5 | 1 | 69 |
+| 360d | 2025-11-16 | 13 | 161 | 2 | 31 | 7 | 280 |
+| last720d | 2024-11-21 | 18 | 187 | 2 | 53 | 8 | 615 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **14,403** lines of code across **83** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/gitlogue). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/gitlogue). **5** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for gitlogue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:03:20Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:53:15Z._
