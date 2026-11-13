@@ -37,7 +37,7 @@ x install gitlogue
 
 ## 流行度
 
-- **Star**: 5,269 · **Fork**: 123 · **开放 issue**: 61 · **贡献者**: 21
+- **Star**: 5,271 · **Fork**: 123 · **开放 issue**: 61 · **贡献者**: 21
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install gitlogue
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 8 | 0 | 0 | 1 | 15 |
-| last60d | 2026-09-13 | 3 | 17 | 0 | 1 | 1 | 29 |
-| 90d | 2026-08-14 | 4 | 24 | 0 | 3 | 1 | 44 |
-| last180d | 2026-05-16 | 5 | 47 | 0 | 5 | 1 | 70 |
-| 360d | 2025-11-17 | 13 | 162 | 1 | 31 | 7 | 281 |
-| last720d | 2024-11-22 | 18 | 188 | 1 | 53 | 8 | 617 |
+| 30d | 2026-10-14 | 2 | 8 | 0 | 0 | 1 | 15 |
+| last60d | 2026-09-14 | 3 | 15 | 0 | 1 | 1 | 29 |
+| 90d | 2026-08-15 | 4 | 24 | 0 | 3 | 1 | 44 |
+| last180d | 2026-05-17 | 5 | 47 | 0 | 5 | 1 | 70 |
+| 360d | 2025-11-18 | 13 | 148 | 1 | 29 | 7 | 281 |
+| last720d | 2024-11-23 | 18 | 188 | 1 | 53 | 8 | 617 |
 
 ## Release 资产
 
@@ -66,13 +66,13 @@ x install gitlogue
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/gitlogue) 上共有 **18** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/gitlogue) 上共有 **18** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.9.0` | ⚠️ outdated |
-| Homebrew | `0.12.2` | ✅ latest |
-| Nix unstable | `0.12.1` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `0.12.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ gitlogue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T08:49:54Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T08:19:00Z._
