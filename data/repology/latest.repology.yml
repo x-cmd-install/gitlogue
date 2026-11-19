@@ -1,3 +1,16 @@
+- repo: t2
+  srcname: gitlogue
+  visiblename: gitlogue
+  version: 0.12.2
+  origversion: null
+  status: newest
+  summary: A cinematic Git commit replay tool for the terminal
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - ISC
+  categories:
+    - extra/tool
 - repo: altsisyphus
   srcname: gitlogue
   binnames:
@@ -126,17 +139,6 @@
     - 2210227279@qq.com
   licenses:
     - ISC
-- repo: nix_unstable
-  srcname: gitlogue
-  visiblename: gitlogue
-  version: 0.12.2
-  origversion: null
-  status: newest
-  summary: Cinematic Git commit replay tool for the terminal
-  maintainers:
-    - 2210227279@qq.com
-  licenses:
-    - ISC
 - repo: parabola
   subrepo: extra
   srcname: gitlogue
@@ -146,6 +148,17 @@
   origversion: 0.9.0-1
   status: outdated
   summary: A cinematic Git commit replay tool for the terminal
+  licenses:
+    - ISC
+- repo: nix_unstable
+  srcname: gitlogue
+  visiblename: gitlogue
+  version: 0.12.2
+  origversion: null
+  status: newest
+  summary: Cinematic Git commit replay tool for the terminal
+  maintainers:
+    - 2210227279@qq.com
   licenses:
     - ISC
 - repo: pkgsrc_2026_2
@@ -184,16 +197,3 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: t2
-  srcname: gitlogue
-  visiblename: gitlogue
-  version: 0.12.2
-  origversion: null
-  status: newest
-  summary: A cinematic Git commit replay tool for the terminal
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - ISC
-  categories:
-    - extra/tool
